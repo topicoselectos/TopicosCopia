@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\Topicos.NorthWind.BaseDatos.csproj": {}
+    "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\Topicos.NorthWind.BaseDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\Topicos.NorthWind.BaseDatos.csproj": {
+    "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\Topicos.NorthWind.BaseDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\Topicos.NorthWind.BaseDatos.csproj",
+        "projectUniqueName": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\Topicos.NorthWind.BaseDatos.csproj",
         "projectName": "Topicos.NorthWind.BaseDatos",
-        "projectPath": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\Topicos.NorthWind.BaseDatos.csproj",
+        "projectPath": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\Topicos.NorthWind.BaseDatos.csproj",
         "packagesPath": "C:\\Users\\edwardarce2000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\obj\\",
+        "outputPath": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edwardarce2000\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\ProductInfo.API\\ProductInfo.API.csproj": {}
+    "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\ProductInfo.API\\ProductInfo.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\ProductInfo.API\\ProductInfo.API.csproj": {
+    "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\ProductInfo.API\\ProductInfo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\ProductInfo.API\\ProductInfo.API.csproj",
+        "projectUniqueName": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\ProductInfo.API\\ProductInfo.API.csproj",
         "projectName": "ProductInfo.API",
-        "projectPath": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\ProductInfo.API\\ProductInfo.API.csproj",
+        "projectPath": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\ProductInfo.API\\ProductInfo.API.csproj",
         "packagesPath": "C:\\Users\\edwardarce2000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\ProductInfo.API\\obj\\",
+        "outputPath": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\ProductInfo.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edwardarce2000\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,9 @@
+C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\Topicos.Utilitarios\bin\Debug\netcoreapp3.1\Topicos.Utilitarios.deps.json
+C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\Topicos.Utilitarios\bin\Debug\netcoreapp3.1\Topicos.Utilitarios.dll
+C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\Topicos.Utilitarios\bin\Debug\netcoreapp3.1\Topicos.Utilitarios.pdb
+C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\Topicos.Utilitarios\obj\Debug\netcoreapp3.1\Topicos.Utilitarios.csprojAssemblyReference.cache
+C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\Topicos.Utilitarios\obj\Debug\netcoreapp3.1\Topicos.Utilitarios.AssemblyInfoInputs.cache
+C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\Topicos.Utilitarios\obj\Debug\netcoreapp3.1\Topicos.Utilitarios.AssemblyInfo.cs
+C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\Topicos.Utilitarios\obj\Debug\netcoreapp3.1\Topicos.Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\Topicos.Utilitarios\obj\Debug\netcoreapp3.1\Topicos.Utilitarios.dll
+C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\Topicos.Utilitarios\obj\Debug\netcoreapp3.1\Topicos.Utilitarios.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\Topicos.Utilitarios\\Topicos.Utilitarios.csproj": {}
+    "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\Topicos.Utilitarios\\Topicos.Utilitarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\Topicos.Utilitarios\\Topicos.Utilitarios.csproj": {
+    "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\Topicos.Utilitarios\\Topicos.Utilitarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\Topicos.Utilitarios\\Topicos.Utilitarios.csproj",
+        "projectUniqueName": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\Topicos.Utilitarios\\Topicos.Utilitarios.csproj",
         "projectName": "Topicos.Utilitarios",
-        "projectPath": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\Topicos.Utilitarios\\Topicos.Utilitarios.csproj",
+        "projectPath": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\Topicos.Utilitarios\\Topicos.Utilitarios.csproj",
         "packagesPath": "C:\\Users\\edwardarce2000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\Topicos.Utilitarios\\obj\\",
+        "outputPath": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\Topicos.Utilitarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edwardarce2000\\AppData\\Roaming\\NuGet\\NuGet.Config",

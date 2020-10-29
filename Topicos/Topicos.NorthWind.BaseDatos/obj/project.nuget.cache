@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sF5UanT1Vl0cBg6G8pir38PFowJgbhVtQQX27vE8Q9Zayu+qEq6eYmtZBWdsE6LaOqHjTzb+tFIRrq7LW3eJdQ==",
+  "dgSpecHash": "RxT2ZPn1dcxoSBjP/GYAKmj8IBQX5dL8iqzwdWMWdcfNAe1QpkyE2EcmlOyXYVFDnnW1brX+Ve3VKze03w9sCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\Topicos.NorthWind.BaseDatos.csproj",
+  "projectFilePath": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\Topicos.NorthWind.BaseDatos\\Topicos.NorthWind.BaseDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edwardarce2000\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\edwardarce2000\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

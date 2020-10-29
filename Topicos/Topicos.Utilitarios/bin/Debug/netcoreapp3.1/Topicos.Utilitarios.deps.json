@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Topicos.Utilitarios/1.0.0": {
+        "runtime": {
+          "Topicos.Utilitarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Topicos.Utilitarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
