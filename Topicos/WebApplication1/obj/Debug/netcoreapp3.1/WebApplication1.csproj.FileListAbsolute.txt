@@ -17,3 +17,4 @@ C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\WebApplication1\obj\De
 C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\edwardarce2000\source\repos\TopicosCopia\Topicos\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\edwardarce2000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edwardarce2000\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\bin\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.deps.json
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\bin\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.runtimeconfig.json
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\bin\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.runtimeconfig.dev.json
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\bin\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.dll
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\bin\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.pdb
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\obj\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.csprojAssemblyReference.cache
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\obj\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.AssemblyInfoInputs.cache
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\obj\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.AssemblyInfo.cs
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\obj\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\obj\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.dll
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\obj\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.pdb
+C:\Users\edwardarce2000\Source\Repos\TopicosCopia\Topicos\Topicos.NorthWind.BaseDatos\obj\Debug\netcoreapp3.1\Topicos.NorthWind.BaseDatos.genruntimeconfig.cache

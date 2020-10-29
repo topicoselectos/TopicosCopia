@@ -18,10 +18,10 @@ namespace Topicos.Calentamiento
             Console.WriteLine(elMensaje);
         }
 
-        public void DoQuery ()
+        public void DoQuery()
         {
             var terminar = false;
-            while (! terminar)
+            while (!terminar)
             {
                 MostrarMenu();
                 var laOpcion = CapturarOpcion();
@@ -40,7 +40,8 @@ namespace Topicos.Calentamiento
         {
             switch (laOpcion)
             {
-                case "1":  ConsultaPorIdDeProducto();
+                case "1":
+                    ConsultaPorIdDeProducto();
                     break;
                 default:
                     break;
@@ -51,7 +52,7 @@ namespace Topicos.Calentamiento
         {
             var idDeProducto = CaptureIdDeProducto();
             if (idDeProducto != null)
-            { 
+            {
                 var elServicio = new Topicos.NorthWInd.BL.Services.Products();
                 int elIdDeProductoNoNullable = (int)idDeProducto;
                 var elProductoEncontrado = elServicio.ObtenerProductosPorId(elIdDeProductoNoNullable);
@@ -79,7 +80,7 @@ namespace Topicos.Calentamiento
             var elProductoString = System.Console.ReadLine();
             int elIdDeProducto = 0;
             int? elIdDeProductoNullable = null;
-            if (! int.TryParse(elProductoString, out elIdDeProducto))
+            if (!int.TryParse(elProductoString, out elIdDeProducto))
             {
                 Console.WriteLine("El Id de Producto digitado es erróneo.");
             }
