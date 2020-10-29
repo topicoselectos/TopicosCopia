@@ -24,7 +24,7 @@ namespace Topicos.NorthWind.BaseDatos.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=hecferme-sql-server.cwlbhgzxacqn.us-east-2.rds.amazonaws.com;Database=NorthWind;User Id=admin; Password=Nuevo123*");
+                optionsBuilder.UseSqlServer("Server=ed-database-sqlserver.cmmakvtlq6ls.us-east-2.rds.amazonaws.com;User Id=admin; Password=Jimenez023.*");
             }
         }
 
