@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\OrdersAPI\\OrdersAPI.csproj": {}
+    "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\OrdersAPI\\OrdersAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\OrdersAPI\\OrdersAPI.csproj": {
+    "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\OrdersAPI\\OrdersAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\OrdersAPI\\OrdersAPI.csproj",
+        "projectUniqueName": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\OrdersAPI\\OrdersAPI.csproj",
         "projectName": "OrdersAPI",
-        "projectPath": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\OrdersAPI\\OrdersAPI.csproj",
+        "projectPath": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\OrdersAPI\\OrdersAPI.csproj",
         "packagesPath": "C:\\Users\\edwardarce2000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edwardarce2000\\source\\repos\\TopicosCopia\\Topicos\\OrdersAPI\\obj\\",
+        "outputPath": "C:\\Users\\edwardarce2000\\Source\\Repos\\TopicosCopia\\Topicos\\OrdersAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edwardarce2000\\AppData\\Roaming\\NuGet\\NuGet.Config",

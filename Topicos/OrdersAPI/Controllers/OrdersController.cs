@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using OrdersAPI;
+using OrdersAPI.MisModelos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,13 +13,26 @@ namespace WebApplication1.Controllers
     public class OrderController : ControllerBase
     {
         [HttpGet]
-        public JsonResult GetOrders()
+        public IActionResult GetOrders()
         {
-            JsonResult elResultado = new JsonResult(new List<Object>() {
-                 new {id = 5, orderDate=DateTime.Now},
-                 new {id = 25, orderDate=DateTime.Now.AddMinutes(-200)}
-            });
-            return elResultado;
+            var elResultado = OrdersDataStore.Current.OrdersList;
+            return Ok(elResultado);
+        }
+
+        private Orders BuscarOrden (int orderId)
+        {
+            var laOrden = OrdersDataStore.Current.OrdersList.FirstOrDefault(o => o.Id == orderId);
+            return laOrden;
+        }
+
+        [HttpGet("{id}")]
+        public IActionResult GetOrder(int id)
+        {
+            // Verificar si la orden existe
+            var laOrden = BuscarOrden(id);
+            if (laOrden == null)
+                return NotFound();
+            return Ok(laOrden);
         }
     }
 }
