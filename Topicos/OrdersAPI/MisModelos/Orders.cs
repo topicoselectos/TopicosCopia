@@ -12,6 +12,6 @@ namespace OrdersAPI.MisModelos
 
         public DateTime OrderDate { get; set; }
 
-        public ICollection<OrderDetail> LosDetalles { get; set; }
+        public IList<OrderDetail> LosDetalles { get; set; }
     }
 }

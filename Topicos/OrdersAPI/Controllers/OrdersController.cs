@@ -19,7 +19,7 @@ namespace WebApplication1.Controllers
             return Ok(elResultado);
         }
 
-        private Orders BuscarOrden (int orderId)
+        internal Orders BuscarOrden (int orderId)
         {
             var laOrden = OrdersDataStore.Current.OrdersList.FirstOrDefault(o => o.Id == orderId);
             return laOrden;
