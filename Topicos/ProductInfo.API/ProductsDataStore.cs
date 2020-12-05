@@ -21,10 +21,10 @@ namespace ProductInfo.API
                     Id = 10, Name = "Milk", Description = "1 Gallon Cow Milk",
                     ListOfCategories= new List  <Category> ()
                     {
-                        new Category { Id = 10, Name="Lactics",
+                        new Category { Id = 10, Name="Lactics", 
                             Description = "The process of converting carbohydrates to alcohol or organic acids using microorganisms—yeasts or bacteria—under anaerobic conditions." },
                         new Category { Id = 80, Name="Groceries",
-                            Description = "General range of food products, which may be fresh or packaged." }
+                            Description = "General range of food products, which may be fresh or packaged." }                    
                     }
                 },
                 new Product()

@@ -12,7 +12,7 @@ namespace ProductInfo.API.Controllers
     public class ProductCategoriesController : ControllerBase
     {
         [HttpGet]
-        public IActionResult GetCategories(int productId)
+        public IActionResult GetCategories (int productId)
         {
             var product = ProductsDataStore.Current.ProductsList.FirstOrDefault(p => p.Id == productId);
             if (product == null)
@@ -39,7 +39,7 @@ namespace ProductInfo.API.Controllers
         }
 
         [HttpPost]
-        public IActionResult CreateCategory(int productId, [FromBody] Category theCategory)
+        public IActionResult CreateCategory (int productId, [FromBody] Category theCategory)
         {
             var product = ProductsDataStore.Current.ProductsList.FirstOrDefault(p => p.Id == productId);
             if (product == null)
@@ -61,11 +61,11 @@ namespace ProductInfo.API.Controllers
             product.ListOfCategories.Add(finalCategory);
 
             return CreatedAtRoute("GetCategory",
-                new
-                {
-                    productId = productId,
-                    id = finalCategory.Id
-                },
+                new 
+                    { 
+                        productId = productId,
+                        id = finalCategory.Id
+                    },
                     finalCategory
                 );
         }
